@@ -7,7 +7,7 @@ Install 7-zip to extract files.
 ## Python
 you will need a 64 bit version of Python 3.8. If you install any other version, make sure to install the 64 bit version!
 ## Install Python Libraries
-we recommend using a virtual environment for running `simple pupil.py`. To install all Python dependencies, you can use the `requirements.txt` file from the root of the simple pupil repository.
+we recommend using a virtual environment for running `simple pupil`. To install all Python dependencies, you can use the `requirements.txt` file from the root of the simple pupil repository.
 ## model
 `detector4.svm` `predictor4.dat`
 ## software
